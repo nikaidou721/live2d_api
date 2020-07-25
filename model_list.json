@@ -1,6 +1,13 @@
 {
     "models": [
-        "Potion-Maker/Pio",
+        [
+			"Potion-Maker/Pio",
+			"Potion-Maker/Pio1",
+			"Potion-Maker/Pio2",
+			"Potion-Maker/Pio3",
+			"Potion-Maker/Pio4",
+			"Potion-Maker/Pio5"
+        ]
         "Potion-Maker/Tia"
     ],
     "messages": [

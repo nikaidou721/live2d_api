@@ -2,7 +2,12 @@
     "version":"1.0.0",
     "model":"model.moc",
     "textures":[
-        "textures/default-costume.png"
+        "textures/bikini-costume-pink.png",
+        "textures/maid-costume-black.png",
+        "textures/sakura-costume.png",
+        "textures/sailor-bikini-costume-white.png",
+        "textures/sulbim-costume-snowflake.png",
+        "textures/summer-uniform-costume-green.png"
     ],
     "layout":{
         "center_x":0.0,

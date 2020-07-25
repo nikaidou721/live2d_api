@@ -2,14 +2,7 @@
 	"version":"1.0.0",
 	"model":"model.moc",
     "textures":[
-        "textures/sailor-costume.png",
-        "textures/elementary-school-costume-navy.png",
-        "textures/dress-costume.png",
-        "textures/kids-costume-navy.png",
-        "textures/pajamas-costume-pink.png",
-        "textures/qipao-costume-pink.png",
-        "textures/summer-dress-costume-white.png",
-        "textures/winter-costume-white.png"
+        "textures/sailor-costume.png"
     ],
     "layout":{
 		"center_x":0.0,
